@@ -1,4 +1,4 @@
-FROM f0rc3/barcodebuddy:latest
+FROM georgegebbett/recipe-buddy:latest
 
 # Build arguments
 ARG BUILD_ARCH
