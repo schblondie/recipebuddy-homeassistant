@@ -1,0 +1,8 @@
+squash: false
+build_from:
+  arm64: georgegebbett/recipe-buddy:latest
+  aarch64: georgegebbett/recipe-buddy:latest
+  amd64: georgegebbett/recipe-buddy:latest
+  armv7: georgegebbett/recipe-buddy:latest
+  i386: georgegebbett/recipe-buddy:latest
+args: {}
