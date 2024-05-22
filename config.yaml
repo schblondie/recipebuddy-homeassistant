@@ -1,8 +1,8 @@
 ---
 name: Recipe Buddy for Grocy
 version: dev-docker-based
-slug: bbuddy-grocy
-description: Barcode system for Grocy
+slug: rbuddy-grocy
+description: Recipe import system for Grocy
 url: https://github.com/schblondie/recipebuddy-homeassistant
 panel_icon: mdi:chef-hat
 startup: system
