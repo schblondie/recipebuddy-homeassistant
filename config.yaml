@@ -26,8 +26,8 @@ options:
   NEXTAUTH_SECRET: YOUR_AUTH_SECRET
   NEXTAUTH_URL: http://localhost:3005
 schema:
-  GROCY_API_KEY: string
-  GROCY_BASE_URL: string
-  NEXTAUTH_SECRET: string
-  NEXTAUTH_URL: string
+  GROCY_API_KEY: str
+  GROCY_BASE_URL: str
+  NEXTAUTH_SECRET: str
+  NEXTAUTH_URL: str
 ingress: true
