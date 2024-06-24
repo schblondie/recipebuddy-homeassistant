@@ -1,6 +1,6 @@
 ---
 name: Recipe Buddy for Grocy
-version: latest
+version: v2.0.6
 slug: rbuddy-grocy
 description: Recipe import system for Grocy
 url: https://github.com/schblondie/recipebuddy-homeassistant
