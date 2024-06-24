@@ -1,4 +1,4 @@
-FROM georgegebbett/recipe-buddy:v2.0.6
+FROM georgegebbett/recipe-buddy:latest
 
 # Build arguments
 ARG BUILD_ARCH
